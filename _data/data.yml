@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Bui Ngoc Yen Nhi
-  tagline: Student - Information Systems @ UEH
+  tagline: Student - Investment Economics @ UEH
   avatar: avatar.JPG #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -47,18 +47,7 @@ career-profile:
 
 education:
   title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  info: 
   - degree: Bachelor in Investment Economics
     university: University of Economics Ho Chi Minh City (UEH)
     time: 2023 - 2027
@@ -78,8 +67,7 @@ experiences:
       Managed the coordination between clients and production teams for golf apparel orders,ensuring accurate product specifications, quality control, and on-time delivery. 
       Assisted in order tracking, cost estimation, and supplier communication. 
       Developed strong organizational and communication skills through direct collaboration with production departments and international clients.
-        - Bullet point
-        - Bullet point
+        
   - role: Private Tutor
     time: 2023-now
     details: |
@@ -87,8 +75,6 @@ experiences:
         Designed customized lesson plans and exercises to improve learning outcomes. 
         Developed patience, teaching techniques, and communication skills while helping students 
         achieve better academic performance.
-        - Bullet point
-        - Bullet point
 
 certifications:
   title: Certifications
